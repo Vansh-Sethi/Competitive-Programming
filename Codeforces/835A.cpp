@@ -1,4 +1,11 @@
+/* 
+By. Vansh Sethi
+MAIN CONCEPT = Implementation
+*/
+
 #include <bits/stdc++.h>
+
+using namespace std;
 
 int main() {
     
